@@ -1,4 +1,4 @@
-# Tokyo_Olympics_2020
+# Working
 Information about the tokyo olympics 
 
 ![image](https://user-images.githubusercontent.com/87011258/128003606-f154522d-f163-4df2-b9df-0a4b334f44bd.png)
